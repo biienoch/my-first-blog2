@@ -29,4 +29,4 @@ venv/
  #visual studio
  .vscode/
  .history/
- *.code-workspace
+
